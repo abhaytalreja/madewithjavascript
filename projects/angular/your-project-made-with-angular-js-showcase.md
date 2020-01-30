@@ -18,7 +18,7 @@ tags:
 - '#opensource'
 ---
 
-[![Feature Image](/uploads/your-feature-image-made-with-vue-js.png)](https://madewithjavascript.club/ "Pagekit | Made with Vue JS")
+[![Feature Image](/uploads/your-project-image.png)](https://madewithjavascript.club/ "Pagekit | Made with Vue JS")
 
 <<2/3 lines about your project>>
 
