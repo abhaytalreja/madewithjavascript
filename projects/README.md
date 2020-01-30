@@ -14,35 +14,35 @@ Here are the top projects by category
 
 [Made with React JS][made-with-react-js]
 
-- Project Coming Soon [made-with-javascript]
+- [Project Coming Soon][made-with-javascript]
 
 [Made with Nuxt JS][made-with-nuxt-js]
 
-- Project Coming Soon [made-with-javascript]
+- [Project Coming Soon][made-with-javascript]
 
 [Made with Node JS][made-with-node-js]
 
-- Project Coming Soon [made-with-javascript]
+- [Project Coming Soon][made-with-javascript]
 
 [Made with Next JS][made-with-next-js]
 
-- Project Coming Soon [made-with-javascript]
+- [Project Coming Soon][made-with-javascript]
 
 [Made with Meteor JS][made-with-meteor-js]
 
-- Project Coming Soon [made-with-javascript]
+- [Project Coming Soon][made-with-javascript]
 
 [Made with Gatsby JS][made-with-gatsby-js]
 
-- Project Coming Soon [made-with-javascript]
+- [Project Coming Soon][made-with-javascript]
 
 [Made with Ember JS][made-with-ember-js]
 
-- Project Coming Soon [made-with-javascript]
+- [Project Coming Soon][made-with-javascript]
 
 [Made with Angular JS][made-with-angular-js]
 
-- Project Coming Soon [made-with-javascript]
+- [Project Coming Soon][made-with-javascript]
 
 [made-with-vue-js]: https://madewithjavascript.club/categories/vue-js "Made with Vue JS"
 [made-with-react-js]: https://madewithjavascript.club/categories/react-js "Made with React JS"
