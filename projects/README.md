@@ -63,4 +63,7 @@ Here are the top projects by category
 [made-with-ember-js]: https://madewithjavascript.club/categories/ember-js "Made with Ember JS"
 [made-with-angular-js]: https://madewithjavascript.club/categories/angular-js "Made with Angular JS"
 [made-with-javascript]: https://madewithjavascript.club/ "Made with Javscript Club"
-[pagekit]: ./pagekit-made-with-vue-js-showcase.md "Pagekit | Made with Vue JS"
+[pagekit]: ./vue/pagekit-made-with-vue-js-showcase.md "Pagekit | Made with Vue JS"
+[request-project]: https://madewithjavascript.club/categories/request/project "Submit your project | Made with Vue JS"
+[request-post]: https://madewithjavascript.club/categories/request/post "Guest Post | Made with Vue JS"
+[request-category]: https://madewithjavascript.club/categories/request/categories "Suggest new JS framework | Made with Vue JS"
