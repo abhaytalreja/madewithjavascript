@@ -14,7 +14,7 @@ Here are the top projects made with Nuxt JS
 
 [made-with-nuxt-js]: https://madewithjavascript.club/categories/nuxt-js "Made with Nuxt JS"
 [made-with-javascript]: https://madewithjavascript.club/ "Made with Javscript Club"
-[sample-project]: /your-project-made-with-nuxt-js-showcase.md "Project Name | Made with Nuxt JS"
+[sample-project]: ./your-project-made-with-nuxt-js-showcase.md "Project Name | Made with Nuxt JS"
 [request-project]: https://madewithjavascript.club/categories/request/project "Submit your project | Made with Javascript"
 [request-post]: https://madewithjavascript.club/categories/request/post "Guest Post | Made with Javascript"
 [request-category]: https://madewithjavascript.club/categories/request/categories "Suggest new JS framework | Made with Javascript"

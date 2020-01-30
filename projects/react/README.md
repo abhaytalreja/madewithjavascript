@@ -14,7 +14,7 @@ Here are the top projects made with React JS
 
 [made-with-react-js]: https://madewithjavascript.club/categories/react-js "Made with React JS"
 [made-with-javascript]: https://madewithjavascript.club/ "Made with Javscript Club"
-[sample-project]: /your-project-made-with-react-js-showcase.md "Project Name | Made with React JS"
+[sample-project]: ./your-project-made-with-react-js-showcase.md "Project Name | Made with React JS"
 [request-project]: https://madewithjavascript.club/categories/request/project "Submit your project | Made with Javascript"
 [request-post]: https://madewithjavascript.club/categories/request/post "Guest Post | Made with Javascript"
 [request-category]: https://madewithjavascript.club/categories/request/categories "Suggest new JS framework | Made with Javascript"

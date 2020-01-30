@@ -14,7 +14,7 @@ Here are the top projects made with Ember JS
 
 [made-with-ember-js]: https://madewithjavascript.club/categories/ember-js "Made with Ember JS"
 [made-with-javascript]: https://madewithjavascript.club/ "Made with Javscript Club"
-[sample-project]: /your-project-made-with-ember-js-showcase.md "Project Name | Made with Ember JS"
+[sample-project]: ./your-project-made-with-ember-js-showcase.md "Project Name | Made with Ember JS"
 [request-project]: https://madewithjavascript.club/categories/request/project "Submit your project | Made with Javascript"
 [request-post]: https://madewithjavascript.club/categories/request/post "Guest Post | Made with Javascript"
 [request-category]: https://madewithjavascript.club/categories/request/categories "Suggest new JS framework | Made with Javascript"
