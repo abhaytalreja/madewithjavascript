@@ -1,5 +1,14 @@
 [![Made with Vue JS](https://madewithjavascript.club/_nuxt/uploads/87a3170-640.png)][made-with-vue-js]
 
+<p align="center">
+  <br>
+  <a href="https://madewithjavascript.club/categories/vue-js" target="_blank" title="Maed with Vue JS">
+    <img width="200" src="/uploads/Made-with-vue-js.png" alt="Made with Vue JS">
+  </a>
+  <br>
+  <br>
+</p>
+
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 
 # [Made With Vue JS][made-with-vue-js]
