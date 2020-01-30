@@ -1,3 +1,5 @@
+[![Made with Angular JS](https://madewithjavascript.club/_nuxt/uploads/9fea7ff-640.png)][made-with-angular-js]
+
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 
 # [Made With Angular JS][made-with-angular-js]
@@ -8,7 +10,7 @@ You can also add [your projects][request-project], [share a guest post][request-
 
 Here are the top projects made with Angular JS
 
-- [Sample Project][same-project]
+- [Sample Project][sample-project]
 
 [made-with-angular-js]: https://madewithjavascript.club/categories/angular-js "Made with Angular JS"
 [made-with-javascript]: https://madewithjavascript.club/ "Made with Javscript Club"
