@@ -2,7 +2,7 @@
 title: <<Your project title>>
 slugPath: <<Your project title>> Made with angular js showcase
 subtitle:  <<Your project subtitle/slogan>>
-category: - Angular JS
+category: - Nuxt JS
 author: <<Your Name>>
 authorUrl:  <<Your website/profile url>>
 projectUrl: <<Your project url>>
