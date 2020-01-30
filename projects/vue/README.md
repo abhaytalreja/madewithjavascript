@@ -1,4 +1,4 @@
-[![Made with Vue JS](https://madewithjavascript.club/_nuxt/uploads/9fea7ff-640.png)][made-with-vue-js]
+[![Made with Vue JS](https://madewithjavascript.club/_nuxt/uploads/87a3170-640.png)][made-with-vue-js]
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 
@@ -14,7 +14,7 @@ Here are the top projects made with Vue JS
 
 [made-with-vue-js]: https://madewithjavascript.club/categories/vue-js "Made with Vue JS"
 [made-with-javascript]: https://madewithjavascript.club/ "Made with Javscript Club"
-[sample-project]: .//your-project-made-with-vue-js-showcase.md "Project Name | Made with Vue JS"
+[sample-project]: /your-project-made-with-vue-js-showcase.md "Project Name | Made with Vue JS"
 [request-project]: https://madewithjavascript.club/categories/request/project "Submit your project | Made with Javascript"
 [request-post]: https://madewithjavascript.club/categories/request/post "Guest Post | Made with Javascript"
 [request-category]: https://madewithjavascript.club/categories/request/categories "Suggest new JS framework | Made with Javascript"

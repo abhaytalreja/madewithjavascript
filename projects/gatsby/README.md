@@ -1,4 +1,4 @@
-[![Made with Gatsby JS](https://madewithjavascript.club/_nuxt/uploads/9fea7ff-640.png)][made-with-gatsby-js]
+[![Made with Gatsby JS](https://madewithjavascript.club/_nuxt/uploads/fd332d2-640.png)][made-with-gatsby-js]
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 
@@ -14,7 +14,7 @@ Here are the top projects made with Gatsby JS
 
 [made-with-gatsby-js]: https://madewithjavascript.club/categories/gatsby-js "Made with Gatsby JS"
 [made-with-javascript]: https://madewithjavascript.club/ "Made with Javscript Club"
-[sample-project]: ./../your-project-made-with-gatsby-js-showcase.md "Project Name | Made with Gatsby JS"
+[sample-project]: /your-project-made-with-gatsby-js-showcase.md "Project Name | Made with Gatsby JS"
 [request-project]: https://madewithjavascript.club/categories/request/project "Submit your project | Made with Javascript"
 [request-post]: https://madewithjavascript.club/categories/request/post "Guest Post | Made with Javascript"
 [request-category]: https://madewithjavascript.club/categories/request/categories "Suggest new JS framework | Made with Javascript"
