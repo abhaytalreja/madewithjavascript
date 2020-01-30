@@ -1,4 +1,11 @@
-[![Made with Angular JS](https://madewithjavascript.club/_nuxt/uploads/9fea7ff-640.png)][made-with-angular-js]
+<p align="center">
+  <br>
+  <a href="https://madewithjavascript.club/categories/angular-js" target="_blank" title="Maed with Angular JS">
+    <img width="200" src="/uploads/Made-with-angular-js.png" alt="Made with Angular JS">
+  </a>
+  <br>
+  <br>
+</p>
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 

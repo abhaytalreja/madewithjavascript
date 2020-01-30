@@ -1,4 +1,11 @@
-[![Made with Meteor JS](https://madewithjavascript.club/_nuxt/uploads/d467356-640.png)][made-with-meteor-js]
+<p align="center">
+  <br>
+  <a href="https://madewithjavascript.club/categories/meteor-js" target="_blank" title="Maed with Meteor JS">
+    <img width="200" src="/uploads/Made-with-meteor-js.png" alt="Made with Meteor JS">
+  </a>
+  <br>
+  <br>
+</p>
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 

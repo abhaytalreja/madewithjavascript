@@ -1,4 +1,11 @@
-[![Made with Nuxt JS](https://madewithjavascript.club/_nuxt/uploads/c0c3590-640.png)][made-with-nuxt-js]
+<p align="center">
+  <br>
+  <a href="https://madewithjavascript.club/categories/nuxt-js" target="_blank" title="Maed with Nuxt JS">
+    <img width="200" src="/uploads/Made-with-nuxt-js.png" alt="Made with Nuxt JS">
+  </a>
+  <br>
+  <br>
+</p>
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 

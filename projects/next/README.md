@@ -1,4 +1,11 @@
-[![Made with Next JS](https://madewithjavascript.club/_nuxt/uploads/fe0a7fb-640.png)][made-with-next-js]
+<p align="center">
+  <br>
+  <a href="https://madewithjavascript.club/categories/next-js" target="_blank" title="Maed with Next JS">
+    <img width="200" src="/uploads/Made-with-next-js.png" alt="Made with Next JS">
+  </a>
+  <br>
+  <br>
+</p>
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 

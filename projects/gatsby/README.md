@@ -1,4 +1,11 @@
-[![Made with Gatsby JS](https://madewithjavascript.club/_nuxt/uploads/fd332d2-640.png)][made-with-gatsby-js]
+<p align="center">
+  <br>
+  <a href="https://madewithjavascript.club/categories/gatsby-js" target="_blank" title="Maed with Gatsby JS">
+    <img width="200" src="/uploads/Made-with-gatsby-js.png" alt="Made with Gatsby JS">
+  </a>
+  <br>
+  <br>
+</p>
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 

@@ -1,4 +1,11 @@
-[![Made with Ember JS](https://madewithjavascript.club/_nuxt/uploads/903d166-640.png)][made-with-ember-js]
+<p align="center">
+  <br>
+  <a href="https://madewithjavascript.club/categories/ember-js" target="_blank" title="Maed with Ember JS">
+    <img width="200" src="/uploads/Made-with-ember-js.png" alt="Made with Ember JS">
+  </a>
+  <br>
+  <br>
+</p>
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 

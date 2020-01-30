@@ -1,4 +1,11 @@
-[![Made with React JS](https://madewithjavascript.club/_nuxt/uploads/9617878-640.png)][made-with-react-js]
+<p align="center">
+  <br>
+  <a href="https://madewithjavascript.club/categories/react-js" target="_blank" title="Maed with React JS">
+    <img width="200" src="/uploads/Made-with-react-js.png" alt="Made with React JS">
+  </a>
+  <br>
+  <br>
+</p>
 
 ![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)
 
