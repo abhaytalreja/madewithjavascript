@@ -17,7 +17,7 @@ You can also add [your projects][request-project], [share a guest post][request-
 
 Here are the top projects made with Next JS
 
-- [Sample Project][sample-project]
+- [Netflix Jobs][netflix-jobs]
 
 [made-with-next-js]: https://madewithjavascript.club/categories/next-js "Made with Next JS"
 [made-with-javascript]: https://madewithjavascript.club/ "Made with Javscript Club"
@@ -25,3 +25,4 @@ Here are the top projects made with Next JS
 [request-project]: https://madewithjavascript.club/categories/request/project "Submit your project | Made with Javascript"
 [request-post]: https://madewithjavascript.club/categories/request/post "Guest Post | Made with Javascript"
 [request-category]: https://madewithjavascript.club/categories/request/categories "Suggest new JS framework | Made with Javascript"
+[netflix-jobs]: ./netflix-jobs-made-with-next-js-showcase.md
