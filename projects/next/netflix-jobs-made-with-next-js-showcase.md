@@ -10,7 +10,7 @@ twitter: https://twitter.com/WeAreNetflix
 instagram: https://www.instagram.com/wearenetflix/
 facebook: https://www.facebook.com/wearenetflix
 featureImage: netflix-jobs-made-with-next-js.jpg
-keywords: >- next, next js, made with next js, next js showcase
+keywords: >- next, next js, made with next js, next js showcase, next js showcase, next js example, next js ecommerce, next site, js website, showcase website, creative js, next js boilerplate, e js, example of entertainment website, xw qq, nike.com next, cool javascript for websites, j's tv, twitch nike, famous javascript, netflix pwa
 tags:
 - '#javascript'
 - '#nextjs'
