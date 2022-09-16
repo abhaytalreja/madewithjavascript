@@ -1,4 +1,6 @@
-[![Made with Javascript](https://madewithjavascript.club/Made-With-Javascript-Logo.png)](https://madewithjavascript.club/)
+[![Made with Javascript](https://madewithjavascript.club/_next/image?url=%2FMade-With-Javascript-Logo.webp&w=640&q=75)](https://madewithjavascript.club/)
+
+
 
 # Made With Javascript
 Javascript is amazing and the #apps you can make with #Javascript is more amazing! Biggest #showcase of #madewithjavascript projects for your inspiration!
