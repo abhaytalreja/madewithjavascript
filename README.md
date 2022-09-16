@@ -3,7 +3,7 @@
 # Made With Javascript
 Javascript is amazing and the #apps you can make with #Javascript is more amazing! Biggest #showcase of #madewithjavascript projects for your inspiration!
 
-You can also add [your projects][https://madewithjavascript.club/submit-project] on our website. Just head over to respective articles to see how you can list your projects.
+You can also add [your projects](https://madewithjavascript.club/submit-project "Submit Projects for Made with Javascript") on our website. Just head over to respective articles to see how you can list your projects.
 
 It is a source of inspiration for a lot of us. We have projects in various categories:
 [![Made with Vue JS](https://madewithjavascript.netlify.app/_nuxt/uploads/87a3170-640.png)][made-with-vue-js]
